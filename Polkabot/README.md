@@ -37,7 +37,7 @@ Additionally, Polkabot is set to become the main hub for building decentralized 
 ## Paranet diagram
 
 
-![](./dkg.png)
+![diagram](./dkg.png)
 
 
 
