@@ -1,8 +1,8 @@
-![](./cover.png)
+![](./images/cover.png)
 
-[![](./vote.png)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/democracy)
+[![](./images/vote.png)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/democracy)
 
-[![](./guide.png)](https://docs.neuroweb.ai/on-chain-governance/voting-on-a-referendum)
+[![](./images/guide.png)](https://docs.neuroweb.ai/on-chain-governance/voting-on-a-referendum)
 
 ## General Paranet Information
 
@@ -14,7 +14,7 @@
 
 **Paranet Registry Knowledge Asset:** did:dkg:base:8453/0x3bdfa81079b2ba53a25a6641608e5e1e6c464597/167896
 
-**Paranet incentive contract address:** TBD
+**Paranet incentive contract address:** 0x1600607c75ED84D07D06722c2Ded82EdA0237976
 
 **Requested NEURO emissions:** 5,000,000 NEURO
 
@@ -45,7 +45,7 @@ Incentives for knowledge growth: Encouraging the expansion of valuable research.
 
 By combining the trust and incentives, the deterministic foundation of the DKG, and the reasoning potential of LLMs, we can develop AI solutions that not only perform specific tasks but also undertake broader research initiatives. These AI agents can autonomously conduct research on verifiable sources, paving the way for new discoveries.
 
-![](./blueprint.png)
+![](./images/blueprint.png)
 
 # **Problem**
 
@@ -106,7 +106,7 @@ As it stands, LLMs are not well suited to create novel ideas, but rather randomi
 
 # **Paranet diagram**
 
-![](./diagram.png)
+![](./images/diagram.png)
 
 # **Paranet Knowledge assets**
 
