@@ -1,5 +1,6 @@
 ![](./cover.png)
-![](./image.svg) ![](./button.svg)
+[![](./vote.png)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/democracy)
+[![](./guide.png)](https://docs.neuroweb.ai/on-chain-governance/voting-on-a-referendum)
 
 ## General Paranet Information
 
