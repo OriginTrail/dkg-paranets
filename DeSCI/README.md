@@ -1,5 +1,5 @@
 ![](./cover.png)
-![](./image.svg)
+![](./image.svg) ![](./button.svg)
 
 ## General Paranet Information
 
