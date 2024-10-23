@@ -1,0 +1,35 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" style="border: 1px solid black;">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;flex-direction:column;gap:24px;width:100%">
+      <div style="background-color:#1f272e;height:170px;border-radius:16px;display:flex;justify-content:space-between;align-items:center;flex-direction:row;padding:0 28px">
+        <p style="color:#fff;font-family:Space Grotesk;font-size:20px;font-style:normal;font-weight:400;line-height:normal;margin:0">Click here to vote and support the launch <br/>of SciGraph.ai on OriginTrail DKG </p>
+        <a style="text-decoration:none" href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/democracy" target="_blank" rel="noopener noreferrer">
+          <button class="vote-button" style="display:flex;padding:12px 24px;align-items:center;gap:10px;border-radius:82px;background:#e99275;color:#1f282f;font-family:Manrope;font-size:14px;font-style:normal;font-weight:600;line-height:150%;cursor:pointer;border:none;">Vote and Support</button>
+        </a>
+      </div>
+      <div style="background-color:#1f272e;height:144px;border-radius:16px;display:flex;justify-content:space-between;align-items:center;flex-direction:row;padding:0 28px">
+        <p style="color:#fff;font-family:Space Grotesk;font-size:20px;font-style:normal;font-weight:400;line-height:normal;margin:0">Not sure how to vote?</p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 56 56" fill="none">
+          <path d="M11.668 28H44.3346M44.3346 28L32.0846 16.3334M44.3346 28L32.0846 39.6667" stroke="white" stroke-width="2.5" stroke-linecap="square" />
+        </svg>
+        <a href="https://docs.neuroweb.ai/on-chain-governance/voting-on-a-referendum" target="_blank" rel="noopener noreferrer">
+          <button style="color:#e99275;background:0 0;border:none;font-feature-settings:'liga' off,'clig' off;font-family:Manrope;font-size:14px;font-style:normal;font-weight:400;line-height:normal;text-decoration-line:underline;cursor:pointer">Click here for a quick guide</button>
+        </a>
+      </div>
+    </div>
+
+<style>
+
+  .vote-button {
+    transition: background-color 0.3s ease;
+  }
+
+  .vote-button:hover {
+    background-color: #f3a68e !important;
+    text-decoration: none !important;
+  }
+</style>
+
+  </foreignObject>
+</svg>
