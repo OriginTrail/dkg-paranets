@@ -12,7 +12,7 @@
 
 **Paranet Blockchain:** Base
 
-**Paranet Registry Knowledge Asset:** did:dkg:base:8453/0x3bdfa81079b2ba53a25a6641608e5e1e6c464597/167896
+**Paranet Registry Knowledge Asset:** did:dkg:base:8453/0x3bdfa81079b2ba53a25a6641608e5e1e6c464597/290450
 
 **Paranet incentive contract address:** 0x1600607c75ED84D07D06722c2Ded82EdA0237976
 
